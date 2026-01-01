@@ -1,0 +1,7 @@
+{
+  "name": "MyCircle",
+  "description": "A premium hyper-local community marketplace for trusted neighbors to buy, sell, rent, and help.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
